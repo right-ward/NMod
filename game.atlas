@@ -406,14 +406,14 @@ PolicyIcons/Patriotic War
   index: -1
 PolicyIcons/Skyscrapers
   rotate: false
-  xy: 1955, 1623
+  xy: 378, 176
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Socialist Realism
   rotate: false
-  xy: 378, 176
+  xy: 373, 118
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -427,21 +427,21 @@ PolicyIcons/Treaty Organization
   index: -1
 PolicyIcons/Universal Healthcare
   rotate: false
-  xy: 373, 118
+  xy: 436, 181
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Urbanization
   rotate: false
-  xy: 436, 181
+  xy: 628, 473
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Volunteer Army
   rotate: false
-  xy: 628, 473
+  xy: 623, 415
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -455,7 +455,7 @@ PolicyIcons/Workers Faculties
   index: -1
 PolicyIcons/Young Pioneers
   rotate: false
-  xy: 623, 415
+  xy: 1292, 1359
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -623,35 +623,35 @@ TileSets/AbsoluteUnits/Units/Pittore-Industrial era-2
   index: -1
 TileSets/FantasyHex/Units/Agent
   rotate: false
-  xy: 920, 1059
+  xy: 1292, 1323
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Special Agent
   rotate: false
-  xy: 920, 1059
+  xy: 1292, 1323
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/MIM-104 Patriot
   rotate: false
-  xy: 976, 1100
+  xy: 920, 1059
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pittore
   rotate: false
-  xy: 920, 1023
+  xy: 976, 1100
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ranchero
   rotate: false
-  xy: 920, 986
+  xy: 920, 1022
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
